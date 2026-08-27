@@ -1,0 +1,57 @@
+[
+    {
+        "date": "2026-08-27",
+        "day_of_week": "Thursday",
+        "statistics": {
+            "age": 14,
+            "weight_kg": 67.5,
+            "height_ft": "5'8",
+            "hours_of_sleep": 6
+        },
+        "nutrition": [
+            {"name": "eggs", "quantity": 5, "unit": "counts", "protein": 36, "calories": 360},
+            {"name": "white rice", "quantity": 0.5, "unit": "cups", "protein": 2.5, "calories": 120},
+            {"name": "flaxseed", "quantity": 25, "unit": "grams", "protein": 1.9, "calories": 55},
+            {"name": "bananas", "quantity": 2, "unit": "counts", "protein": 2.5, "calories": 210},
+            {"name": "protein wrap", "quantity": 1, "unit": "counts", "protein": 5.4, "calories": 90},
+            {"name": "protein bar", "quantity": 1, "unit": "counts", "protein": 17, "calories": 200},
+            {"name": "creatine powder", "quantity": 1, "unit": "scoop", "protein": 0, "calories": 0},
+            {"name": "milk", "quantity": 200, "unit": "milliliters", "protein": 6, "calories": 96},
+            {"name": "chicken breast", "quantity": 1.5, "unit": "counts", "protein": 46.5, "calories": 250},
+            {"name": "bacon strips", "quantity": 3, "unit": "counts", "protein": 8.9, "calories": 110}
+        ],
+        "gym": [
+            {
+                "times": {
+                    "entry": "15:00",
+                    "exit": "16:45"
+                }
+            },
+            {
+                "statistics": {
+                    "friends": [],
+                    "toilet_breaks": 1,
+                    "hydration_breaks": 4,
+                    "lightheaded": false,
+                    "tired": true
+                }
+            },
+            {
+                "workout": [
+                    {"type": "cardio","name": "treadmill", "calories": 107, "distance_km": 1.25, "time_mins": 15, "walk": true, "run": false, "stitch": false},
+                    {"type": "cardio","name": "treadmill", "calories": 200, "distance_km": 2.30, "time_mins": 25, "walk": true, "run": true, "stitch": true},
+                    {"type": "muscle","name": "neutral grip pull up", "weight_kg": 35, "sets": 2, "reps": 10, "rest_between_sets_mins": 3, "difficulty": 8, "pull": "fast", "push": "slow"}
+                ]
+            },
+            {
+                "post": {
+                    "soreness": 4,
+                    "sweaty": 7,
+                    "pump": 8,
+                    "jelly_arms": true,
+                    "jelly_legs": false
+                }
+            }
+        ]
+    }
+]
