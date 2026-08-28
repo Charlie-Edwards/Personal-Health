@@ -6,7 +6,7 @@
             "age": 14,
             "weight_kg": 67.5,
             "height_ft": "5'8",
-            "hours_of_sleep": 6
+            "hours_of_sleep": 8
         },
         "nutrition": [
             {"name": "eggs", "quantity": 5, "unit": "counts", "protein": 36, "calories": 360},
@@ -49,6 +49,64 @@
                     "sweaty": 7,
                     "pump": 8,
                     "jelly_arms": true,
+                    "jelly_legs": false
+                }
+            }
+        ]
+    },
+
+    {
+        "date": "2026-08-28",
+        "day_of_week": "Friday",
+        "statistics": {
+            "age": 14,
+            "weight_kg": 66.7,
+            "height_ft": "5'8",
+            "hours_of_sleep": 7
+        },
+        "nutrition": [
+            {"name": "eggs", "quantity": 4, "unit": "counts", "protein": 28.8, "calories": 288},
+            {"name": "white rice", "quantity": 0.5, "unit": "cups", "protein": 2.5, "calories": 120},
+            {"name": "flaxseed", "quantity": 12.5, "unit": "grams", "protein": 0.95, "calories": 27.5},
+            {"name": "bananas", "quantity": 2, "unit": "counts", "protein": 2.5, "calories": 210},
+            {"name": "protein wrap", "quantity": 1, "unit": "counts", "protein": 5.4, "calories": 90},
+            {"name": "protein bar", "quantity": 4, "unit": "counts", "protein": 44, "calories": 440},
+            {"name": "creatine powder", "quantity": 1, "unit": "scoop", "protein": 0, "calories": 0},
+            {"name": "milk", "quantity": 600, "unit": "milliliters", "protein": 18, "calories": 288},
+            {"name": "Banana Cold Hotel Chocolat Chocolate", "quantity": 1, "unit": "counts", "protein": 2.5, "calories": 65},
+            {"name": "Crispy m&m's", "quantity": 1, "unit": "counts", "protein": 5, "calories": 485}
+        ],
+        "gym": [
+            {
+                "times": {
+                    "entry": "15:00",
+                    "exit": "17:15"
+                }
+            },
+            {
+                "statistics": {
+                    "friends": ["jacob"],
+                    "toilet_breaks": 3,
+                    "hydration_breaks": 6,
+                    "lightheaded": true,
+                    "tired": false
+                }
+            },
+            {
+                "workout": [
+                    {"type": "cardio","name": "treadmill", "calories": 150, "distance_km": 1.77, "time_mins": 20, "walk": true, "run": false, "stitch": false},
+                    {"type": "cardio","name": "treadmill", "calories": 150, "distance_km": 1.74, "time_mins": 21, "walk": true, "run": false, "stitch": false},
+                    {"type": "muscle","name": "dumbell bicep curl", "weight_kg": 6, "sets": 5, "reps": 10, "rest_between_sets_mins": 1, "difficulty": 5, "pull": "normal", "push": "normal"},
+                    {"type": "muscle","name": "chest press", "weight_kg": 20, "sets": 5, "reps": 6, "rest_between_sets_mins": 3, "difficulty": 5, "pull": "normal", "push": "normal"},
+                    {"type": "muscle","name": "bench press", "weight_kg": 62.5, "sets": 1, "reps": 1, "rest_between_sets_mins": 0, "difficulty": 10, "pull": "normal", "push": "slow"}
+                ]
+            },
+            {
+                "post": {
+                    "soreness": 2,
+                    "sweaty": 6,
+                    "pump": 5,
+                    "jelly_arms": false,
                     "jelly_legs": false
                 }
             }
