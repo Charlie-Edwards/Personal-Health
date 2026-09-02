@@ -17,5 +17,15 @@
         "hang_seconds": [12, 11, 9],
         "pulldown_reps": 20,
         "notes": "I think the decrease in hang seconds is just fatigue from yesterday."
+    },
+
+    {
+        "day": "Wednesday",
+        "dosage_grams": 5,
+        "time": "14:49",
+        "bodyweight_kg": 67.8,
+        "hang_seconds": [14, 11, 14],
+        "pulldown_reps": 14,
+        "notes": ""
     }
 ]
