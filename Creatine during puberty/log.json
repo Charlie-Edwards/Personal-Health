@@ -27,5 +27,15 @@
         "hang_seconds": [14, 11, 14],
         "pulldown_reps": 14,
         "notes": "Hang time probably improved due to recovery of yesterday, I'm not sure why I'm gaining so much weight though, it might be water retention but I've also been eating a lot more to try and hit my 130g protein goal"
+    },
+
+    {
+        "day": "Thursday",
+        "dosage_grams": 5,
+        "time": "14:19",
+        "bodyweight_kg": 66.7,
+        "hang_seconds": [13, 9, 10],
+        "pulldown_reps": 21,
+        "notes": ""
     }
 ]
