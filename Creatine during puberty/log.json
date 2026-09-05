@@ -47,5 +47,15 @@
         "hang_seconds": [7, 7, 5],
         "pulldown_reps": 20,
         "notes": "Back to school so huge time difference in gym and creatine time. Gym opens at 3:00-5:30pm"
+    },
+
+    {
+        "day": "Saturday",
+        "dosage_grams": 5,
+        "time": "11:50",
+        "bodyweight_kg": 65.7,
+        "hang_seconds": [12, 8, 7],
+        "pulldown_reps": 20,
+        "notes": "Didn't work out for that long and did mostly cardio"
     }
 ]
