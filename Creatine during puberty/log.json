@@ -57,5 +57,15 @@
         "hang_seconds": [12, 8, 7],
         "pulldown_reps": 20,
         "notes": "Didn't work out for that long and did mostly cardio"
+    },
+
+    {
+        "day": "Sunday",
+        "dosage_grams": 5,
+        "time": "11:50",
+        "bodyweight_kg": 67.4,
+        "hang_seconds": [13, 11, 13],
+        "pulldown_reps": 20,
+        "notes": ""
     }
 ]
