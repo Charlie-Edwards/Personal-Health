@@ -77,5 +77,15 @@
         "hang_seconds": [15, 10, 4],
         "pulldown_reps": 18,
         "notes": "Start of week 2, no creatine for the rest of the week now. Hang second decrease is likely tiredness especially due to school"
+    },
+
+    {
+        "day": "Tuesday",
+        "dosage_grams": 0,
+        "time": "",
+        "bodyweight_kg": 68.2,
+        "hang_seconds": [0, 0, 0],
+        "pulldown_reps": 24,
+        "notes": "Forgot to do hangs"
     }
 ]
