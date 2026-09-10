@@ -1,101 +1,105 @@
-[
-    {
-        "day": "Monday",
-        "dosage_grams": 5,
-        "time": "11:50",
-        "bodyweight_kg": 66.7,
-        "hang_seconds": [18, 14, 10],
-        "pulldown_reps": 16,
-        "notes": "Took creatine earlier since the gym was earlier due to bank holiday monday (gym starts for teens at 12-3 on weekends but weekdays 3-5:30)"
-    },
-
-    {
-        "day": "Tuesday",
-        "dosage_grams": 5,
-        "time": "14:00",
-        "bodyweight_kg": 67.4,
-        "hang_seconds": [12, 11, 9],
-        "pulldown_reps": 20,
-        "notes": "I think the decrease in hang seconds is just fatigue from yesterday"
-    },
-
-    {
-        "day": "Wednesday",
-        "dosage_grams": 5,
-        "time": "14:49",
-        "bodyweight_kg": 67.8,
-        "hang_seconds": [14, 11, 14],
-        "pulldown_reps": 14,
-        "notes": "Hang time probably improved due to recovery of yesterday, I'm not sure why I'm gaining so much weight though, it might be water retention but I've also been eating a lot more to try and hit my 130g protein goal"
-    },
-
-    {
-        "day": "Thursday",
-        "dosage_grams": 5,
-        "time": "14:19",
-        "bodyweight_kg": 66.7,
-        "hang_seconds": [13, 9, 10],
-        "pulldown_reps": 21,
-        "notes": ""
-    },
-
-    {
-        "day": "Friday",
-        "dosage_grams": 5,
-        "time": "8:18",
-        "bodyweight_kg": 67.1,
-        "hang_seconds": [7, 7, 5],
-        "pulldown_reps": 20,
-        "notes": "Back to school so huge time difference in gym and creatine time. Gym opens at 3:00-5:30pm"
-    },
-
-    {
-        "day": "Saturday",
-        "dosage_grams": 5,
-        "time": "11:50",
-        "bodyweight_kg": 65.7,
-        "hang_seconds": [12, 8, 7],
-        "pulldown_reps": 20,
-        "notes": "Didn't work out for that long and did mostly cardio"
-    },
-
-    {
-        "day": "Sunday",
-        "dosage_grams": 5,
-        "time": "11:50",
-        "bodyweight_kg": 67.4,
-        "hang_seconds": [13, 11, 13],
-        "pulldown_reps": 20,
-        "notes": ""
-    },
-
-    {
-        "day": "Monday",
-        "dosage_grams": 0,
-        "time": "",
-        "bodyweight_kg": 67.5,
-        "hang_seconds": [15, 10, 4],
-        "pulldown_reps": 18,
-        "notes": "Start of week 2, no creatine for the rest of the week now. Hang second decrease is likely tiredness especially due to school"
-    },
-
-    {
-        "day": "Tuesday",
-        "dosage_grams": 0,
-        "time": "",
-        "bodyweight_kg": 68.2,
-        "hang_seconds": [0, 0, 0],
-        "pulldown_reps": 24,
-        "notes": "Forgot to do hangs"
-    },
-
-    {
-        "day": "Wednesday",
-        "dosage_grams": 0,
-        "time": "",
-        "bodyweight_kg": 67.0,
-        "hang_seconds": [17, 12, 8],
-        "pulldown_reps": 25,
-        "notes": ""
-    }
-]
+{
+    "week_1": [
+        {
+            "day": "Monday",
+            "dosage_grams": 5,
+            "time": "11:50",
+            "bodyweight_kg": 66.7,
+            "hang_seconds": [18, 14, 10],
+            "pulldown_reps": 16,
+            "notes": "Took creatine earlier since the gym was earlier due to bank holiday monday (gym starts for teens at 12-3 on weekends but weekdays 3-5:30)"
+        },
+        {
+            "day": "Tuesday",
+            "dosage_grams": 5,
+            "time": "14:00",
+            "bodyweight_kg": 67.4,
+            "hang_seconds": [12, 11, 9],
+            "pulldown_reps": 20,
+            "notes": "I think the decrease in hang seconds is just fatigue from yesterday"
+        },
+        {
+            "day": "Wednesday",
+            "dosage_grams": 5,
+            "time": "14:49",
+            "bodyweight_kg": 67.8,
+            "hang_seconds": [14, 11, 14],
+            "pulldown_reps": 14,
+            "notes": "Hang time probably improved due to recovery of yesterday, I'm not sure why I'm gaining so much weight though, it might be water retention but I've also been eating a lot more to try and hit my 130g protein goal"
+        },
+        {
+            "day": "Thursday",
+            "dosage_grams": 5,
+            "time": "14:19",
+            "bodyweight_kg": 66.7,
+            "hang_seconds": [13, 9, 10],
+            "pulldown_reps": 21,
+            "notes": ""
+        },
+        {
+            "day": "Friday",
+            "dosage_grams": 5,
+            "time": "8:18",
+            "bodyweight_kg": 67.1,
+            "hang_seconds": [7, 7, 5],
+            "pulldown_reps": 20,
+            "notes": "Back to school so huge time difference in gym and creatine time. Gym opens at 3:00-5:30pm"
+        },
+        {
+            "day": "Saturday",
+            "dosage_grams": 5,
+            "time": "11:50",
+            "bodyweight_kg": 65.7,
+            "hang_seconds": [12, 8, 7],
+            "pulldown_reps": 20,
+            "notes": "Didn't work out for that long and did mostly cardio"
+        },
+        {
+            "day": "Sunday",
+            "dosage_grams": 5,
+            "time": "11:50",
+            "bodyweight_kg": 67.4,
+            "hang_seconds": [13, 11, 13],
+            "pulldown_reps": 20,
+            "notes": ""
+        }
+    ],
+    "week_2": [
+        {
+            "day": "Monday",
+            "dosage_grams": 0,
+            "time": "",
+            "bodyweight_kg": 67.5,
+            "hang_seconds": [15, 10, 4],
+            "pulldown_reps": 18,
+            "notes": "Start of week 2, no creatine for the rest of the week now. Hang second decrease is likely tiredness especially due to school"
+        },
+        {
+            "day": "Tuesday",
+            "dosage_grams": 0,
+            "time": "",
+            "bodyweight_kg": 68.2,
+            "hang_seconds": [0, 0, 0],
+            "pulldown_reps": 24,
+            "notes": "Forgot to do hangs"
+        },
+        {
+            "day": "Wednesday",
+            "dosage_grams": 0,
+            "time": "",
+            "bodyweight_kg": 67.0,
+            "hang_seconds": [17, 12, 8],
+            "pulldown_reps": 25,
+            "notes": ""
+        },
+        {
+            "day": "Thursday",
+            "dosage_grams": 0,
+            "time": "",
+            "bodyweight_kg": 68.3,
+            "hang_seconds": [19, 11, 16],
+            "pulldown_reps": 21,
+            "notes": ""
+        }
+    ]
+}
