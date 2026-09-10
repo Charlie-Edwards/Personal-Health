@@ -87,5 +87,15 @@
         "hang_seconds": [0, 0, 0],
         "pulldown_reps": 24,
         "notes": "Forgot to do hangs"
+    },
+
+    {
+        "day": "Wednesday",
+        "dosage_grams": 0,
+        "time": "",
+        "bodyweight_kg": 67.0,
+        "hang_seconds": [17, 12, 8],
+        "pulldown_reps": 25,
+        "notes": ""
     }
 ]
