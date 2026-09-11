@@ -100,6 +100,15 @@
             "hang_seconds": [19, 11, 16],
             "pulldown_reps": 21,
             "notes": ""
+        },
+        {
+            "day": "Friday",
+            "dosage_grams": 0,
+            "time": "",
+            "bodyweight_kg": 67,
+            "hang_seconds": [10, 6, 14],
+            "pulldown_reps": 22,
+            "notes": ""
         }
     ]
 }
