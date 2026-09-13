@@ -118,6 +118,15 @@
             "hang_seconds": [11, 9, 7],
             "pulldown_reps": 22,
             "notes": ""
+        },
+        {
+            "day": "Sunday",
+            "dosage_grams": 0,
+            "time": "",
+            "bodyweight_kg": 68,
+            "hang_seconds": [12, 9, 9],
+            "pulldown_reps": 18,
+            "notes": ""
         }
     ]
 }
