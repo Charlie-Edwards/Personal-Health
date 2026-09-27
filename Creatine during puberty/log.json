@@ -139,5 +139,16 @@
             "pulldown_reps": 18,
             "notes": "It's getting harder to record these and I need time to rest so I'm considering just logging 1 or 2 days per week but still going to the gym every day."
         }
+    ],
+    "week_4": [
+        {
+            "day": "Sunday",
+            "dosage_grams": 5,
+            "time": "11:15",
+            "bodyweight_kg": 68.2,
+            "hang_seconds": [14, 14],
+            "pulldown_reps": 22,
+            "notes": ""
+        }
     ]
 }
