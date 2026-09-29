@@ -150,5 +150,16 @@
             "pulldown_reps": 22,
             "notes": ""
         }
+    ],
+    "week_5": [
+        {
+            "day": "Monday",
+            "dosage_grams": 5,
+            "time": "7:55",
+            "bodyweight_kg": 69.5,
+            "hang_seconds": [10, 15, 13],
+            "pulldown_reps": 22,
+            "notes": ""
+        }
     ]
 }
