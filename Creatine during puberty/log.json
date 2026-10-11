@@ -160,6 +160,62 @@
             "hang_seconds": [10, 15, 13],
             "pulldown_reps": 22,
             "notes": ""
+        },
+        {
+            "day": "Tuesday",
+            "dosage_grams": 5,
+            "time": "",
+            "bodyweight_kg": 69.3,
+            "hang_seconds": [6, 7],
+            "pulldown_reps": 25,
+            "notes": ""
+        },
+        {
+            "day": "Wednesday",
+            "dosage_grams": 5,
+            "time": "",
+            "bodyweight_kg": 69.2,
+            "hang_seconds": [6, 4],
+            "pulldown_reps": 25,
+            "notes": ""
+        },
+        {
+            "day": "Sunday",
+            "dosage_grams": 5,
+            "time": "",
+            "bodyweight_kg": 70.6,
+            "hang_seconds": [14, 9, 12],
+            "pulldown_reps": 34,
+            "notes": ""
+        }
+    ],
+    "week_6": [
+        {
+            "day": "Wednesday",
+            "dosage_grams": 5,
+            "time": "",
+            "bodyweight_kg": 70,
+            "hang_seconds": [15],
+            "pulldown_reps": 26,
+            "notes": ""
+        },
+        {
+            "day": "Saturday",
+            "dosage_grams": 5,
+            "time": "",
+            "bodyweight_kg": 71.9,
+            "hang_seconds": null,
+            "pulldown_reps": 25,
+            "notes": ""
+        },
+        {
+            "day": "Sunday",
+            "dosage_grams": 5,
+            "time": "11:48",
+            "bodyweight_kg": 70.9,
+            "hang_seconds": [16, 13, 12],
+            "pulldown_reps": 27,
+            "notes": ""
         }
     ]
 }
