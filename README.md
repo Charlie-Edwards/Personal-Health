@@ -9,6 +9,6 @@ The pulldown weight in the "pulldown_reps" key, is always staying at 35kg, same 
 
 I'm recording to see if smaller doses in younger people have any noticable changes and if it's really worth taking for a 14 year old male (me).
 
-The creatine I'm taking is flavoured and has a sweetener + vitamins and if I can find any in the shop, I might get a tub that's just unflavoured, pure creatine next time for a more accurate result.
+The creatine I'm taking is unflavoured with vitamins from Warrior ([Product link](https://teamwarrior.com/products/warrior-creatine-plus-vitamins-unflavoured)).
 
 Tested: 31/8/2026 - 26/9/2026 ([View log](https://github.com/Charlie-Edwards/Personal-Health/blob/main/Creatine%20during%20puberty/log.json))
